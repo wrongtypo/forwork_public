@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `idx_people_employee_no` ON `people` (`employee_no`) WHERE "people"."employee_no" <> '';

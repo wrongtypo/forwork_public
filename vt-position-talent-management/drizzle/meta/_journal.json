@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1786427561094,
+      "tag": "0000_illegal_snowbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1786429709307,
+      "tag": "0001_breezy_boomer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1786441437727,
+      "tag": "0002_strange_lady_mastermind",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1786506301228,
+      "tag": "0003_cuddly_gorilla_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1789191631882,
+      "tag": "0004_curious_kid_colt",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1789435903690,
+      "tag": "0005_shared_job_descriptions",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1789435903691,
+      "tag": "0006_versioned_job_descriptions",
+      "breakpoints": true
+    }
+  ]
+}
